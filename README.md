@@ -5,10 +5,6 @@
 ##### This is an H5
 ###### This is an H6
 
-`
-```
-
-#多行區塊用大於符號(>)：
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
@@ -16,7 +12,6 @@
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
-#階層式區塊用兩個大於符號(>>)：
 > 新北市
 >>板橋區
 

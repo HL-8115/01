@@ -28,4 +28,4 @@ BIG
 
 >>龜山鄉
 
-![NKUST](nkust.jpg "高科大")
+![NKUST](NKUST.png"高科大")
